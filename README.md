@@ -30,7 +30,13 @@ This project is aboout creating an employeee tracker database. It helps users to
 
 ## Contribution
 
+## License
+MIT
+
 ## Tests
+N/A
 
 ## Questions
+- Github :
+
 

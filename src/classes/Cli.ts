@@ -7,9 +7,15 @@ await connectToDb();
 // define the Cli class
 class Cli {
 
+  //static method to display 'Welcome to the Employee Tracker' message
+  static displayLogo(): void {
+    console.log('|------------------------------------------------|');
+    console.log('|        Welcome to the Employee Tracker         |');
+    console.log('|------------------------------------------------|');
+  }
+
 //method to view all departments
 viewAllDepartments(): void {
-    
     
   // Query database for all departments
 pool.query('SELECT * FROM department', (err: Error, result: QueryResult) => { 
