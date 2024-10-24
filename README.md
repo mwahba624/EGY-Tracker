@@ -63,7 +63,7 @@ View All Roles:
 N/A
 
 ## Walkthrough Video
--[Walkthrough Video link](link)
+-[Video link](link)
 
 ## Questions
 - [Github Profile](https://github.com/mwahba624/EGY-Tracker)
